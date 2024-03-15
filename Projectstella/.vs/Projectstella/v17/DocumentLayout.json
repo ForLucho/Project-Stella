@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mis Cosas\\Colegio Tecnico Don Bosco\\IV Ciclo\\Trabajos de Duodecimo\\Area T\u00E9cnica\\Desarrollo de Software\\II Semestre\\Proyecto de Graduaci\u00F3n\\Projectstella\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{522CB5CE-371E-4307-854B-C4A868173F02}|Presentation\\Presentation.csproj|e:\\mis cosas\\colegio tecnico don bosco\\iv ciclo\\trabajos de duodecimo\\area t\u00E9cnica\\desarrollo de software\\ii semestre\\proyecto de graduaci\u00F3n\\projectstella\\presentation\\inforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{522CB5CE-371E-4307-854B-C4A868173F02}|Presentation\\Presentation.csproj|solutionrelative:presentation\\inforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522CB5CE-371E-4307-854B-C4A868173F02}|Presentation\\Presentation.csproj|e:\\mis cosas\\colegio tecnico don bosco\\iv ciclo\\trabajos de duodecimo\\area t\u00E9cnica\\desarrollo de software\\ii semestre\\proyecto de graduaci\u00F3n\\projectstella\\presentation\\creaejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{522CB5CE-371E-4307-854B-C4A868173F02}|Presentation\\Presentation.csproj|solutionrelative:presentation\\creaejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522CB5CE-371E-4307-854B-C4A868173F02}|Presentation\\Presentation.csproj|e:\\mis cosas\\colegio tecnico don bosco\\iv ciclo\\trabajos de duodecimo\\area t\u00E9cnica\\desarrollo de software\\ii semestre\\proyecto de graduaci\u00F3n\\projectstella\\presentation\\creactividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{522CB5CE-371E-4307-854B-C4A868173F02}|Presentation\\Presentation.csproj|solutionrelative:presentation\\creactividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522CB5CE-371E-4307-854B-C4A868173F02}|Presentation\\Presentation.csproj|e:\\mis cosas\\colegio tecnico don bosco\\iv ciclo\\trabajos de duodecimo\\area t\u00E9cnica\\desarrollo de software\\ii semestre\\proyecto de graduaci\u00F3n\\projectstella\\presentation\\indexactividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{522CB5CE-371E-4307-854B-C4A868173F02}|Presentation\\Presentation.csproj|solutionrelative:presentation\\indexactividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522CB5CE-371E-4307-854B-C4A868173F02}|Presentation\\Presentation.csproj|e:\\mis cosas\\colegio tecnico don bosco\\iv ciclo\\trabajos de duodecimo\\area t\u00E9cnica\\desarrollo de software\\ii semestre\\proyecto de graduaci\u00F3n\\projectstella\\presentation\\actividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{522CB5CE-371E-4307-854B-C4A868173F02}|Presentation\\Presentation.csproj|solutionrelative:presentation\\actividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522CB5CE-371E-4307-854B-C4A868173F02}|Presentation\\Presentation.csproj|e:\\mis cosas\\colegio tecnico don bosco\\iv ciclo\\trabajos de duodecimo\\area t\u00E9cnica\\desarrollo de software\\ii semestre\\proyecto de graduaci\u00F3n\\projectstella\\presentation\\actejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{522CB5CE-371E-4307-854B-C4A868173F02}|Presentation\\Presentation.csproj|solutionrelative:presentation\\actejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEDBB73-36F7-43CE-821C-7687CA4778E8}|DataAccess\\DataAccess.csproj|e:\\mis cosas\\colegio tecnico don bosco\\iv ciclo\\trabajos de duodecimo\\area t\u00E9cnica\\desarrollo de software\\ii semestre\\proyecto de graduaci\u00F3n\\projectstella\\dataaccess\\connectiontosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEDBB73-36F7-43CE-821C-7687CA4778E8}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\connectiontosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inforo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Mis Cosas\\Colegio Tecnico Don Bosco\\IV Ciclo\\Trabajos de Duodecimo\\Area T\u00E9cnica\\Desarrollo de Software\\II Semestre\\Proyecto de Graduaci\u00F3n\\Projectstella\\Presentation\\Inforo.cs",
+              "RelativeDocumentMoniker": "Presentation\\Inforo.cs",
+              "ToolTip": "E:\\Mis Cosas\\Colegio Tecnico Don Bosco\\IV Ciclo\\Trabajos de Duodecimo\\Area T\u00E9cnica\\Desarrollo de Software\\II Semestre\\Proyecto de Graduaci\u00F3n\\Projectstella\\Presentation\\Inforo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentation\\Inforo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T21:38:40.754Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Indexactividades.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Mis Cosas\\Colegio Tecnico Don Bosco\\IV Ciclo\\Trabajos de Duodecimo\\Area T\u00E9cnica\\Desarrollo de Software\\II Semestre\\Proyecto de Graduaci\u00F3n\\Projectstella\\Presentation\\Indexactividades.cs",
+              "RelativeDocumentMoniker": "Presentation\\Indexactividades.cs",
+              "ToolTip": "E:\\Mis Cosas\\Colegio Tecnico Don Bosco\\IV Ciclo\\Trabajos de Duodecimo\\Area T\u00E9cnica\\Desarrollo de Software\\II Semestre\\Proyecto de Graduaci\u00F3n\\Projectstella\\Presentation\\Indexactividades.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentation\\Indexactividades.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T21:38:39.822Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Actividades.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Mis Cosas\\Colegio Tecnico Don Bosco\\IV Ciclo\\Trabajos de Duodecimo\\Area T\u00E9cnica\\Desarrollo de Software\\II Semestre\\Proyecto de Graduaci\u00F3n\\Projectstella\\Presentation\\Actividades.cs",
+              "RelativeDocumentMoniker": "Presentation\\Actividades.cs",
+              "ToolTip": "E:\\Mis Cosas\\Colegio Tecnico Don Bosco\\IV Ciclo\\Trabajos de Duodecimo\\Area T\u00E9cnica\\Desarrollo de Software\\II Semestre\\Proyecto de Graduaci\u00F3n\\Projectstella\\Presentation\\Actividades.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentation\\Actividades.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T21:38:36.739Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Actejercicios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Mis Cosas\\Colegio Tecnico Don Bosco\\IV Ciclo\\Trabajos de Duodecimo\\Area T\u00E9cnica\\Desarrollo de Software\\II Semestre\\Proyecto de Graduaci\u00F3n\\Projectstella\\Presentation\\Actejercicios.cs",
+              "RelativeDocumentMoniker": "Presentation\\Actejercicios.cs",
+              "ToolTip": "E:\\Mis Cosas\\Colegio Tecnico Don Bosco\\IV Ciclo\\Trabajos de Duodecimo\\Area T\u00E9cnica\\Desarrollo de Software\\II Semestre\\Proyecto de Graduaci\u00F3n\\Projectstella\\Presentation\\Actejercicios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentation\\Actejercicios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T21:38:36.043Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Creactividad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Mis Cosas\\Colegio Tecnico Don Bosco\\IV Ciclo\\Trabajos de Duodecimo\\Area T\u00E9cnica\\Desarrollo de Software\\II Semestre\\Proyecto de Graduaci\u00F3n\\Projectstella\\Presentation\\Creactividad.cs",
+              "RelativeDocumentMoniker": "Presentation\\Creactividad.cs",
+              "ToolTip": "E:\\Mis Cosas\\Colegio Tecnico Don Bosco\\IV Ciclo\\Trabajos de Duodecimo\\Area T\u00E9cnica\\Desarrollo de Software\\II Semestre\\Proyecto de Graduaci\u00F3n\\Projectstella\\Presentation\\Creactividad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentation\\Creactividad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T21:38:33.845Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Creaejercicios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Mis Cosas\\Colegio Tecnico Don Bosco\\IV Ciclo\\Trabajos de Duodecimo\\Area T\u00E9cnica\\Desarrollo de Software\\II Semestre\\Proyecto de Graduaci\u00F3n\\Projectstella\\Presentation\\Creaejercicios.cs",
+              "RelativeDocumentMoniker": "Presentation\\Creaejercicios.cs",
+              "ToolTip": "E:\\Mis Cosas\\Colegio Tecnico Don Bosco\\IV Ciclo\\Trabajos de Duodecimo\\Area T\u00E9cnica\\Desarrollo de Software\\II Semestre\\Proyecto de Graduaci\u00F3n\\Projectstella\\Presentation\\Creaejercicios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentation\\Creaejercicios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T21:38:31.946Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConnectionToSql.cs",
+              "DocumentMoniker": "E:\\Mis Cosas\\Colegio Tecnico Don Bosco\\IV Ciclo\\Trabajos de Duodecimo\\Area T\u00E9cnica\\Desarrollo de Software\\II Semestre\\Proyecto de Graduaci\u00F3n\\Projectstella\\DataAccess\\ConnectionToSql.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ConnectionToSql.cs",
+              "ToolTip": "E:\\Mis Cosas\\Colegio Tecnico Don Bosco\\IV Ciclo\\Trabajos de Duodecimo\\Area T\u00E9cnica\\Desarrollo de Software\\II Semestre\\Proyecto de Graduaci\u00F3n\\Projectstella\\DataAccess\\ConnectionToSql.cs",
+              "RelativeToolTip": "DataAccess\\ConnectionToSql.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T21:31:54.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

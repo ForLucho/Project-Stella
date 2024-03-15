@@ -1,0 +1,22 @@
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\Domain\bin\Debug\Domain.dll
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\Domain\bin\Debug\Domain.pdb
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\Domain\bin\Debug\DataAccess.dll
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\Domain\bin\Debug\DataAccess.pdb
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\Domain\obj\Debug\Domain.csproj.CopyComplete
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\Domain\obj\Debug\Domain.dll
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\Domain\obj\Debug\Domain.pdb
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\Domain\bin\Debug\Common.dll
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\Domain\bin\Debug\Common.pdb
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\Domain\bin\Debug\Domain.dll
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\Domain\bin\Debug\Domain.pdb
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\Domain\bin\Debug\Common.dll
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\Domain\bin\Debug\DataAccess.dll
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\Domain\bin\Debug\Common.pdb
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\Domain\bin\Debug\DataAccess.pdb
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\Domain\obj\Debug\Domain.csproj.Up2Date
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\Domain\obj\Debug\Domain.dll
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\Domain\obj\Debug\Domain.pdb

@@ -1,0 +1,18 @@
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\DataAccess\bin\Debug\DataAccess.dll
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\DataAccess\bin\Debug\DataAccess.pdb
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\DataAccess\obj\Debug\DataAccess.dll
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\DataAccess\obj\Debug\DataAccess.pdb
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\DataAccess\bin\Debug\Common.dll
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\DataAccess\bin\Debug\Common.pdb
+L:\Documentos\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\Proyecto de Graduación\Projectstella\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\DataAccess\bin\Debug\DataAccess.dll
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\DataAccess\bin\Debug\DataAccess.pdb
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\DataAccess\bin\Debug\Common.dll
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\DataAccess\bin\Debug\Common.pdb
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\DataAccess\obj\Debug\DataAccess.csproj.Up2Date
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\DataAccess\obj\Debug\DataAccess.dll
+E:\Mis Cosas\Colegio Tecnico Don Bosco\IV Ciclo\Trabajos de Duodecimo\Area Técnica\Desarrollo de Software\II Semestre\Proyecto de Graduación\Projectstella\DataAccess\obj\Debug\DataAccess.pdb
